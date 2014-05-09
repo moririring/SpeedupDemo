@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApplication3
+﻿namespace SpeedupDemo
 {
     partial class RunForm
     {

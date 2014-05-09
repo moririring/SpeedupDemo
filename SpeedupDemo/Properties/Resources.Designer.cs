@@ -59,5 +59,14 @@ namespace SpeedupDemo.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to 100回終わりました！.
+        /// </summary>
+        internal static string ProcessEndMessage {
+            get {
+                return ResourceManager.GetString("ProcessEndMessage", resourceCulture);
+            }
+        }
     }
 }
